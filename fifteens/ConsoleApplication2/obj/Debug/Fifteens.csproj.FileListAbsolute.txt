@@ -1,0 +1,27 @@
+C:\My Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\My Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\My Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\My Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\My Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\student\Desktop\triangle Efimova\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\student\Desktop\triangle Efimova\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\student\Desktop\triangle Efimova\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\student\Desktop\triangle Efimova\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\student\Desktop\triangle Efimova\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\student\Desktop\triangleEfimova\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\student\Desktop\triangleEfimova\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\student\Desktop\triangleEfimova\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Ирина\Desktop\Новая папка (2)\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Ирина\Desktop\Новая папка (2)\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Ирина\Desktop\Новая папка (2)\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Ирина\Desktop\Новая папка (2)\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Ирина\Desktop\Новая папка (2)\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Ирина\Desktop\fifteens\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Ирина\Desktop\fifteens\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Ирина\Desktop\fifteens\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Ирина\Desktop\fifteens\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Ирина\Desktop\fifteens\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Ирина\Desktop\fifteens\ConsoleApplication2\obj\Debug\Fifteens.csprojResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2013\Projects\fifteens\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\My Documents\Visual Studio 2013\Projects\fifteens\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\My Documents\Visual Studio 2013\Projects\fifteens\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
