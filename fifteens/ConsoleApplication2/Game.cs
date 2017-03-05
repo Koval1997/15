@@ -10,9 +10,7 @@ namespace Fifteens
 
     class Game
     {
-        Value[,] Field;
-        //private int FirstNumber;
-        //private int SecondNumber;
+        Value[,] Field;       
         private int ZeroX;
         private int ZeroY;
         private int Side;
